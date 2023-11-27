@@ -1,3 +1,6 @@
 # LurOrganization
 
-🧨 Boom-boom
+![logo](Logo.png)
+
+
+## 🧨 Boom-boom
